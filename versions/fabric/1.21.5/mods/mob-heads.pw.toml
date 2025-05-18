@@ -1,0 +1,13 @@
+name = "Mob Heads"
+filename = "mob-heads-v.3.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/82uI0waE/versions/99qT2pRM/mob-heads-v.3.4.4.jar"
+hash-format = "sha512"
+hash = "f9288d4ce6eb7009769d2693f75907afed998b262674e9897f9cb802c0891fc4c451a618cd7044737b3135ca23fbe499466d92f709f428b82d4b02533c7c8ce2"
+
+[update]
+[update.modrinth]
+mod-id = "82uI0waE"
+version = "99qT2pRM"

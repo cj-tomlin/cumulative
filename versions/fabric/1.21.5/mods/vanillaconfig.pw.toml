@@ -1,0 +1,13 @@
+name = "VanillaConfig"
+filename = "vanillaconfig-1.2.13+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vtYpD93u/versions/c2NhCyUs/vanillaconfig-1.2.13%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "6cb5d51ffd5005acc85d696e3dbbd8fe6f50fbb96a670cc8156784684e3dd95f10035b2211df756d19aca95b0854c1b0eb9913d63975e774daffdecc23b48f7c"
+
+[update]
+[update.modrinth]
+mod-id = "vtYpD93u"
+version = "c2NhCyUs"

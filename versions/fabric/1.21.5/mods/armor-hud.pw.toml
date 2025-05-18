@@ -1,0 +1,13 @@
+name = "Armor Hud"
+filename = "Armor_Hud-2.7-1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AghHBZC5/versions/IXbhptSD/Armor_Hud-2.7-1.21.5.jar"
+hash-format = "sha512"
+hash = "ce517eaa3446c7d585182c56a8467d9e4388e427e2f115072462891472d4b3cc01d3bd157a836c5cc8f4a59a779623235e03d8a2b410b9bb8af601520e92d7ad"
+
+[update]
+[update.modrinth]
+mod-id = "AghHBZC5"
+version = "IXbhptSD"
