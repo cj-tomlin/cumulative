@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9562924ab1685358fecab473848dd8077cc9ac3674fa2229064a6acfe3b37719"
+hash = "fab45d5403fd80d36de657750764422b5178a3ab280378d8d76d0a49c973405c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
+hash = "d3b90bf089e63af8545bfb795a4d20dc4bb52ceec87e5b632cdbfaad730bb8f6"
 metafile = true
 
 [[files]]
@@ -286,7 +286,6 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 metafile = true
 
@@ -386,13 +385,13 @@ hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+file = "mods/mob-heads.pw.toml"
+hash = "30aa757f41d7cdfeaba0b1a266949062be49fdaa7003b55ee58d9e717a80c13d"
 metafile = true
 
 [[files]]
-file = "mods/mob-heads.pw.toml"
-hash = "30aa757f41d7cdfeaba0b1a266949062be49fdaa7003b55ee58d9e717a80c13d"
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
@@ -411,13 +410,13 @@ hash = "41f36de18117a32a086f708b94958f3bca1204bff1390a088b1ed1b9be04ac52"
 metafile = true
 
 [[files]]
-file = "mods/numeral-ping.pw.toml"
-hash = "8072e7bb82ce6d1330e1e05dfedc8deab746822ab333af5308e355c0607d66e2"
+file = "mods/noisium.pw.toml"
+hash = "ea1d303d34de75ef3745a218e1e48fa72cc0e04265142ed27345fdede5b1d954"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "ea1d303d34de75ef3745a218e1e48fa72cc0e04265142ed27345fdede5b1d954"
+file = "mods/numeral-ping.pw.toml"
+hash = "8072e7bb82ce6d1330e1e05dfedc8deab746822ab333af5308e355c0607d66e2"
 metafile = true
 
 [[files]]
@@ -427,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
@@ -477,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "e81f100c3408636f8a31e529621a8fb580aeb979eb91e971baf9ffbc9ac64796"
+hash = "08e7fcbf0eb89fd14ebbbe9f041c60c5b5cd63e5554386766b6ef7476e7ed65a"
 metafile = true
 
 [[files]]
@@ -512,22 +511,22 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "8a3fc9c04997870509949cd08bdb1a4dbb807415af2a6caa039adc680bab9a91"
+hash = "d486fdebfdb2159657b0f5231598e06b92d573aaf51612657f01eb2af0a9f7c8"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "c5623c1e5f39e087e54f6baf8ee42eed0a0e95cd7425ad9192cc60544628f252"
+hash = "0adf248f238a7bb9855514a44568029f4f848d18e9857e24844d76817ca93f29"
 metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
@@ -552,12 +551,17 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "e167c7d29db5be283277690abe0bbe3b1a5194314a456e2495ee8de7fb5376ef"
+hash = "bc5b833dac6b91f96e3d650e1209d141b9267ce7cb7ac45b8b5a976d6c6a5f4e"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "0af1ab53ce68a6850cdd1071d3291462ea816dede99cc34e92b8a430a359b900"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
+hash = "57d080d6a06e1d8802fe8f7cc5af27c51d43cb77c2898cac99fd76a96c2f77d7"
 metafile = true
 
 [[files]]
