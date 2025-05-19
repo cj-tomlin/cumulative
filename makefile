@@ -28,3 +28,15 @@ update:
 export:
 	make export-fabric
 	make export-quilt
+
+server:
+	@echo "Building server pack for Fabric 1.21.5"
+	-rm -rf .server
+	@mkdir -p .server
+	@if [ -f versions/fabric/1.21.5/icon.png ]; then cp versions/fabric/1.21.5/icon.png .server/server-icon.png; fi
+	cd .server && java -jar ../packwiz-installer-bootstrap.jar -s server ../versions/fabric/1.21.5/pack.toml
+	@echo "Packaging server pack as zip"
+	7z a .build/server-pack.zip .server
+	@echo "Cleaning up .server folder"
+	-rm -rf .server
+	@echo "Server zip ready at .build/server-pack.zip"
