@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_left": [
       {
-        "text": "Cumulative 1.35.0 (Alpha) based on Additive",
+        "text": "Cumulative 1.35.1 (Beta) based on Additive",
         "color": "red",
         "click_event": {
           "action": "open_url",
