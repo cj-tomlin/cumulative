@@ -3,7 +3,7 @@
     "bottom_left": [
       {
         "text": "Cumulative 1.35.1 (Beta) based on Additive",
-        "color": "red",
+        "color": "gold",
         "click_event": {
           "action": "open_url",
           "url": "https://modrinth.com/modpack/additive"
